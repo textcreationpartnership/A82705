@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament. Shewing the present designe now on foot (by vertue of a pretended commission from His Majesty) for a cessation of armes, or treaty of peace with the rebels in Ireland, now they are brought to such a low condition, that they are inforced to devoure and eate one another in some parts of that kingdome And by what popish instruments and ministers in their councels at the court, the said designe is and hath been carried on; persons of great trust, eminent for their affection to religion, and hatred of the rebels being displaced, and men popishly addicted put in their offices. All serving for the better introduction of popery, and extirpation of the true Protestant religion, in that and other of His Majesties dominions. Die Sabbathi 30. Septemb. 1643. Ordered by the Lords and Commons assembled in Parliament, that this declaration shall be forthwith printed &amp; published. J. Brown Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82705</idno>
+            <idno type="STC">Wing E1457</idno>
+            <idno type="STC">Thomason E69_16</idno>
+            <idno type="STC">ESTC R1207</idno>
+            <idno type="EEBO-CITATION">99859204</idno>
+            <idno type="PROQUEST">99859204</idno>
+            <idno type="VID">111273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111273)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E69[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament. Shewing the present designe now on foot (by vertue of a pretended commission from His Majesty) for a cessation of armes, or treaty of peace with the rebels in Ireland, now they are brought to such a low condition, that they are inforced to devoure and eate one another in some parts of that kingdome And by what popish instruments and ministers in their councels at the court, the said designe is and hath been carried on; persons of great trust, eminent for their affection to religion, and hatred of the rebels being displaced, and men popishly addicted put in their offices. All serving for the better introduction of popery, and extirpation of the true Protestant religion, in that and other of His Majesties dominions. Die Sabbathi 30. Septemb. 1643. Ordered by the Lords and Commons assembled in Parliament, that this declaration shall be forthwith printed &amp; published. J. Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 2. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111273:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE LORDS and COMMONS Aſſembled in Parliament.</p>
+            <p>Shewing the preſent Deſigne now on foot (by vertue of a pretended Commiſſion from His <hi>Majeſty</hi>) for a Ceſſation of Armes, or Treaty of Peace with the Rebels in <hi>Ireland,</hi> now they are brought to ſuch a low condition, that they are inforced to devoure and eate one another in ſome parts of that Kingdome</p>
+            <p>And by what popiſh Inſtruments and Miniſters in their councels at the Court, the ſaid deſigne is and hath been carried on; Perſons of great truſt, eminent for their affection to religion, and hatred of the Rebels being diſplaced, and men popiſhly addicted put in their Offices.</p>
+            <p>All ſerving for the better introduction of Popery, and extirpation of the true Proteſtant religion, in that and other of His Majeſties Dominions.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Die Sabbathi 30. Septemb. 1643.</hi>
+                              </date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons aſſembled in Parliament, that this Declaration ſhall be forthwith printed &amp; publiſhed.</p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, Octob. 2. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111273:2"/>
+            <pb n="1" facs="tcp:111273:2"/>
+            <head>A DECLARATION OF THE Lords and Commons Aſſembled in Parliament.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S it is evident to all the world that this late horrid rebellion of the Papiſts in <hi>Ireland</hi> did, with<g ref="char:EOLhyphen"/>out any colour or pretext of pro<g ref="char:EOLhyphen"/>vocation profeſſedly and boldly ayme at the deſtruction of the Pro<g ref="char:EOLhyphen"/>teſtant Religion, the rejecting of the Lawes of <hi>England,</hi> and the extirpation of the Brittiſh Inhabitants out of that Kingdome: So it is no leſſe manifeſt, that this Par<g ref="char:EOLhyphen"/>liament of <hi>England</hi> (to whom His Majeſty hath left the mannaging of the Warre againſt thoſe Rebels) hath taken the troubles of <hi>Ireland</hi> to heart with that reſentment and compaſſion as may evi<g ref="char:EOLhyphen"/>dence their zeale to Religion, their love to their diſtreſt Countrey-men, and brethren there, in theſe
+<pb n="2" facs="tcp:111273:3"/>
+times, when the like Ieſuiticall practices have caſt <hi>England</hi> into woefull diſtractions and an unnaturall warre, not withſtanding which the reducing of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> hath ſtill béene a chiefe part of the care of this Parliament; And God hath béene pleaſed to bleſſe our endeavours with ſuch ſucceſſe as that thoſe fu<g ref="char:EOLhyphen"/>rious bloud-thirſty Papiſts have beene ſtopped in the carriere of their cruelty, ſome part of the Pro<g ref="char:EOLhyphen"/>teſtant Blood which at firſt was ſpilt like Water upon the ground, hath beene revenged, their maſſa<g ref="char:EOLhyphen"/>cres, burnings, and famiſhings, have by a Divine retaliation beene repayd into their boſome; And the Proteſtant party hath beene erected to that condi<g ref="char:EOLhyphen"/>tion of ſtrength and hope, that their enemies are conſtrained, (diſtruſting their Forces) to have re<g ref="char:EOLhyphen"/>courſe to their craft and policies; And therefore by their ſubtill Agents at Court, and their active in<g ref="char:EOLunhyphen"/>ſtruments elſewhere have beene endeavouring now of a long time to make our Armes in <hi>Ireland</hi> diſ<g ref="char:EOLhyphen"/>affected to the Parliament, what by occaſion of their wants not ſo readily ſupplyed as their need requi<g ref="char:EOLhyphen"/>red, what by amuſing them with theſe unhappy differences fallen in here betwéene King and peo<g ref="char:EOLhyphen"/>ple, labouring by that meanes to divide thoſe For<g ref="char:EOLhyphen"/>ces into factions, to the end the maine worke they have in hand might be neglected, which is the proſe<g ref="char:EOLhyphen"/>cuting of the Warre againſt the Rebels, ſo farre brought low in ſome parts of <hi>Ireland,</hi> that if they can be deprived of the benefit of this Harveſt, they are not likely to ſée the next Summer. And there<g ref="char:EOLhyphen"/>fore the Rebels finding that notwithſtanding the diſtractions here occaſioning the ſlowneſſe and ſcarce<g ref="char:EOLhyphen"/>neſſe
+<pb n="3" facs="tcp:111273:3"/>
+of ſupplies, yet they themſelves are in a farre worſe condition, being in want of moſt things ne<g ref="char:EOLhyphen"/>ceſſary, not onely for the maintaining of a warre, but even of life, the judgement of God being re<g ref="char:EOLhyphen"/>markable upon them in this, that as their bloody and treacherous Religion made them inhumanely cruell in ſhedding the Proteſtants blood, ſo now the famine amongſt many of them hath made them unnaturally and Caniball-like eate and féede one upon another: Therefore that they may have time to expect from their friends abroad new ſupplies both of victuall and Amunition, and may without mo<g ref="char:EOLhyphen"/>leſtation reape the fruit of this Harveſt, they have laboured a Treaty for a Ceſſation, which Project of theirs doth no leſſe ayme at the overthrow of the remainder of the Proteſtants in that Kingdome, then their treacherous taking of Armes at firſt did intend the deſtruction of them all; for their Ceſſation and Hoſtility, their War and peace are alike to be eſteemed of, and with thoſe that neither in peace nor war kéepe any faith, it is beſt to be in perpetuall defiance: Therefore the Lords and Commons in Parliament aſſembled, according to their continued care of that Kingdome of <hi>Ireland,</hi> doe in a ſpeciall manner take into their conſideration the condition thereof, upon this occaſion of an intended Ceſſation, and ſo much the rather becauſe it is feared that the Proteſtant forces through want of proviſions for their Armyes may at laſt, it not relieved, be perſwaded to admit of this courſe, in hope thereby to procure ſome means for their ſubſiſting; as alſo becauſe there is too much ground to ſuſpect, that if this Ceſſation ſhould bee agreed
+<pb n="4" facs="tcp:111273:4"/>
+unto, they might have opportunity to ioyne with the Popiſh party here for their greater ſtrengthning: And though it were to have no influence upon this Kingdome, yet the evill Conſequences of it are ſo many and pernitious to <hi>Ireland,</hi> that this Parlia<g ref="char:EOLhyphen"/>ment ſhould betray the truſt repoſed in them, if they did not declare againſt this Ceſſation, and uſe all meanes in time to make it prove abortive. And there<g ref="char:EOLhyphen"/>fore they deſire that it may be obſerved and taken notice of:</p>
+            <p>Firſt, from whence the counſell and deſigne of this Ceſſation ariſeth, even from the Rebels and Pa<g ref="char:EOLhyphen"/>piſts themſelves for their owne preſervation; for ſoone after they had miſſed of their intent, to make themſelves abſolute Maſters of that Kingdome of <hi>Ireland</hi> by their treacherous ſurpriſes; and ſeeing that this Kingdome did with moſt Chriſtian and ge<g ref="char:EOLhyphen"/>nerous reſolutions, undertake the charges of the Warre for the reliefe and recovery of <hi>Ireland;</hi> Pro<g ref="char:EOLhyphen"/>poſitions were brought over from the Rebels by the Lords <hi>Dillon</hi> and <hi>Taſe,</hi> at which time they were intercepted and reſtrained by Order of the Houſe of Commons. After that, they had the boldneſſe, even while their hands were ſtill imbrued in the Prote<g ref="char:EOLhyphen"/>ſtants blood, to petition His Majeſtie that their de<g ref="char:EOLhyphen"/>mands might be heard, and for this purpoſe they ob<g ref="char:EOLhyphen"/>tained a Commiſſion to be ſent over into <hi>Ireland</hi> to divers perſons of qualitie (whereof ſome were Papiſts) to heare, receive, and tranſmit to His Ma<g ref="char:EOLhyphen"/>jeſtie their Demands, which was done accordingly: and one Maſter <hi>Burke,</hi> a notorious pragmatick Iriſh Papiſt, was the chiefe Sollicitor in this bu<g ref="char:EOLhyphen"/>ſineſſe.
+<pb n="5" facs="tcp:111273:4"/>
+After this, the juſt revenging God giving daily ſucceſſe to handfuls of the Proteſtant Forces againſt their great numbers; ſo that by a wonder<g ref="char:EOLhyphen"/>full bleſſing from Heaven they were in moſt parts put to the worſt; Then did they begin to ſet on foot an Overture for a ceſſation of Armes; concerning which, what going and comming hath beene be<g ref="char:EOLhyphen"/>twéen the Court and the Rebels is very well known; and what Meetings and Treaties have beene held about it in <hi>Ireland</hi> by warrant of his Maieſties am<g ref="char:EOLhyphen"/>ple Commiſſion ſent to that effect; and what recep<g ref="char:EOLhyphen"/>tion and countenance moſt pragmatick Papiſts ne<g ref="char:EOLhyphen"/>gotiating the buſineſſe have found at Court, and that thoſe of the State in <hi>Dublin,</hi> who had ſo much Religion and Honeſty as to diſſwade the Ceſſation, were firſt diſcountenanced, and at laſt put out of their places and reſtrained to priſon, as Sir <hi>Wil. Parſons</hi> one of the Lords Iuſtices there, Sir <hi>John Temple</hi> Maſter of the Rolls, Sir <hi>Adam Loftus</hi> Vice-Trea<g ref="char:EOLhyphen"/>ſurer of <hi>Ireland,</hi> and Treaſurer at Wars, and Sir <hi>Robert Merideth</hi> one alſo of the Councell Table.</p>
+            <p>Secondly, the Lords and Commons deſire it may be obſerved, That during all theſe Paſſages and Negotiations, the Houſes of Parliament were never acquainted by the State of <hi>Ireland</hi> with the Treaty of a Ceſſation, much leſſe was their Advice or Councell demanded, notwithſtanding that the care and managing of the War was devolved on them, both by Act of Parliament, and by His Maieſties Commiſſion under the great Seale, <hi>To adviſe, or<g ref="char:EOLhyphen"/>der, and diſpoſe of all things concerning the go<g ref="char:EOLhyphen"/>vernment
+<pb n="6" facs="tcp:111273:5"/>
+and defence of that Kingdome.</hi> But the wants of the Army were often repreſented and com<g ref="char:EOLhyphen"/>plained of, whereby with much craft a ground was preparing for the pretext, wherewith now they would cover the Counſels of this Ceſſation, as if nothing had drawne it on, but the extreame wants of their Armies; whereas it is evident, That the reports of ſuch a Treaty have been (in a great part) the cauſe of their wants, for thereby the Adventurers were diſ-heartened, Contributions were ſtopped, and by the admittance to Court of the Negotiators of this Ceſſation, their wicked counſels have had that influence, as to procure the intercepting of much pro<g ref="char:EOLhyphen"/>viſions which were ſent for <hi>Ireland,</hi> ſo that Ships going for <hi>Ireland</hi> with Victuals, and others com<g ref="char:EOLhyphen"/>ming from thence with Commodities to exchange for Victuals hade beene taken, not onely by Dunkirkers having his Maieſties Warrant, but alſo by Eng<g ref="char:EOLhyphen"/>liſh Ships commanded by Sir <hi>John Pennigton</hi> un<g ref="char:EOLhyphen"/>der his Maieſtie.<note place="margin">Mr. <hi>Davis</hi> his ſhips, and others.</note> And moreover, the Parliament Meſſengers ſent into ſeverall Counties with the Ordinance of Ianuary laſt for Loanes and Contri<g ref="char:EOLhyphen"/>butions, have beene taken and impriſoned, their Mo<g ref="char:EOLhyphen"/>ney taken from them, and not one peny either Loane or Contribution hath beene ſuffered to bee ſent in for <hi>Ireland</hi> from thoſe Counties which were under the power of the Kings Army, while in the meane time the Houſes of Parliament by their Ordinances, De<g ref="char:EOLhyphen"/>clarations, and Solicitations to the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the Counties free from the terrour of the Kings Forces, were ſtill procuring not contemptible aide and releefe for the diſtreſſes of <hi>Ireland.</hi>
+            </p>
+            <p n="3">
+               <pb n="7" facs="tcp:111273:5"/>3. As the Lords and Commons have reaſon to Declare againſt this Plot and deſigne of a Ceſſati<g ref="char:EOLhyphen"/>on of Armes, as being treated and carried on with<g ref="char:EOLhyphen"/>out their advice ſo alſo becauſe of the great preju<g ref="char:EOLhyphen"/>dice which will thereby redound to the Proteſtant Religion, and the encouragement and advancement which it will give to the practice of Popery, when theſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Papiſts ſhall by this agreement, continue and ſet up with more freedome their Ido<g ref="char:EOLhyphen"/>latrous Worſhip, their Popiſh Superſtitions, and Romiſh abominations in all the places of their com<g ref="char:EOLhyphen"/>mand to the diſhonouring of God, the grieving of all true Proteſtant hearts, the diſpoſing of the lawes, of the Crowne of <hi>England,</hi> and to the provoking of the wrath of a iealous God; as if both Kingdomes had not ſmarted enough already, for this ſin of too much<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>niving at, and tolerating of Antichriſtian Idolatry, under pretext of civill contracts and poli<g ref="char:EOLhyphen"/>tike agreements.</p>
+            <p n="4">4. In the fourth place they deſire it may be ob<g ref="char:EOLhyphen"/>ſerved that this Ceſſation will prove diſhonourable to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ublike Faith of this Kingdome, it will elude and make null the Acts and Ordinances of Parlia<g ref="char:EOLhyphen"/>ment, made for the forfeiting of the Rebels Lands; at the paſſing of which Acts, it was, repreſented, that ſuch a courſe would drive the Rebells to de<g ref="char:EOLhyphen"/>ſpaire, and it proves ſo, but otherwayes then was meant, for deſpairing of their force and courage, they goe about to overcome vs with their craft.</p>
+            <p n="5">5. Laſtly, what ſhall become of the many poore ex<g ref="char:EOLhyphen"/>iled Proteſtants, turned out of their Eſtates by this Rebellion, who muſt now continue begging their
+<pb n="8" facs="tcp:111273:6"/>
+bread while the Rebells ſhall injoy their Lands and houſes? and who ſhall ſecure the reſt of the Prote<g ref="char:EOLhyphen"/>ſtants, that either by their owne courage, induſtry, and great charges, have kept their poſſeſſions, or by the ſucceſſe of our Armies have beene reſtored? Can there be any aſſurance gotten from a perfidious Enemy, of a Ceſſation from Treachery and breach of agreement, when they ſhall ſee a fit time and op<g ref="char:EOLhyphen"/>portunity? Theſe and many other Conſiderations being well weighed, it will appeare evidently that this deſigne of a Ceſſation is a deepe Plot layd by the Rebells, and really invented for their owne ſafe<g ref="char:EOLhyphen"/>ty, and falſly pretended to be for the benefit of our Armies.</p>
+            <p>And whereas the Lords and Commons, have no certaine Information that the Treaty is concluded, but are informed by ſeverall Letters that all the Proteſtants, as well Inhabitants as Souldiers in that Kingdome, are reſolved to withſtand that pro<g ref="char:EOLhyphen"/>ceeding, and to adventure on the greateſt extremities rather then have any ſort of Peace with that gene<g ref="char:EOLhyphen"/>ration, who have ſo cruelly in time of Peace mur<g ref="char:EOLhyphen"/>dered many thouſands of our Country men, and la<g ref="char:EOLhyphen"/>boured to extirpate the Proteſtant Religion from a<g ref="char:EOLhyphen"/>mongſt them; So they do beleeve, that theſe rumors of a Ceſſation were firſt contrived by the Enemies of our Religion and peace, and by their practiſes: The Treaty was carried on with much ſubtility and ſolicitation, thereby to ſtop the ſending of ſup<g ref="char:EOLhyphen"/>plies from thence to our Armies, and for the cooling of the affections of thoſe who have already ſhewed their Zeale to the Weal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Ireland:</hi> And therefore
+<pb n="9" facs="tcp:111273:6"/>
+the onely meanes to defeate this their policy, &amp; pre<g ref="char:EOLhyphen"/>vent the evills intended by it, is to ſettle a courſe wherby the Armies of <hi>Ireland</hi> may be at leaſt fenced againſt hunger and cold: For which purpoſe it is deſired, that all thoſe who are wel-affected to the Proteſtant Religion, either in that or this Kingdom, and all thoſe who by their adventures already made, have embarked their particular intereſts with the publike of that Kingdome, and doe deſire a good re<g ref="char:EOLhyphen"/>turne of their engagements, would joyne their en<g ref="char:EOLhyphen"/>deavours, for obviating of that neceſſity, which may be made a ſtrong argument to inforce a deſtructive Ceſſation of Armes, &amp; that they would not through too much ſuſpition and jealouſie of it forbeare the providing of ſupplies, and ſo occaſion that inconveni<g ref="char:EOLhyphen"/>ence which they ought by all meanes to prevent, for by ſo doing, they will loſe all their former paines and charges; and the withholding of proviſions now will gaine credit to that calumnie layd againſt this Kingdome, of neglecting the Armies of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and by the continuing of ſupplies, theſe Forces will be encouraged to continue the Warre, and ſo crowne both their worke and ours. And laſtly, the Rebels ſeeing aſſiſtance againſt them ſtill flowing from hence, muſt needs be out of hope of proſecuting or concluding this their deſigne. The cry of much Proteſtant blood, the great indigency of many rui<g ref="char:EOLhyphen"/>ned Families, the danger of our Religion almoſt ex<g ref="char:EOLhyphen"/>iled out of that Kingdome, calls for this laſt Act of Piety, Charity, Iuſtice, and Policy from us, which being reſolved on, Letters are to be diſpatched to the ſeverall parts of that Kingdome, to encourage
+<pb n="10" facs="tcp:111273:7"/>
+the Commanders &amp; Souldiers upon the aforeſaid reaſons and aſſurances, that they may not hearken to ſuch an unjuſt and deceitfull counſell, and as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their proſecuting of the Warre, through Gods bleſ<g ref="char:EOLhyphen"/>ſing they have ſucceſſefully reſiſted the Rebels cruel<g ref="char:EOLhyphen"/>ly, ſo they may upon this occaſion beware they be not over-reached by their craft.</p>
+            <p>All which the Lords and Commons doe earneſt<g ref="char:EOLhyphen"/>ly deſire, may be ſeriouſly taken to heart by all the Kingdome, and that from thoſe other encourage<g ref="char:EOLhyphen"/>ments mentioned at large in the Ordinance of the 14 of <hi>July</hi> laſt and ſuch as now are offered, a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may be taken whereby ſuch a conſtant weekly <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tribution may be ſetled as will ſupply to the Armies in <hi>Ireland,</hi> the meere neceſſities of nature, which may be more punctually and ſeaſonably tranſmitted unto the ſeverall parts of that Kingdome, ac<g ref="char:EOLhyphen"/>cording to their reſpective wants, that ſo the benefit and honour of ſo pious a worke happily begun, and ſucceſſefully hitherto carried on, may not be loſt when ſo little remaines to be done; and that the fading of a Kingdome, the re-eſtabliſhing of ſo many Prote<g ref="char:EOLhyphen"/>ſtant Churches, the re-poſſeſſing of ſo many thou<g ref="char:EOLhyphen"/>ſand Chriſtians into their Eſtates, may not be deſer<g ref="char:EOLhyphen"/>ted and let fall to the ground, for a little more paines and coſt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
